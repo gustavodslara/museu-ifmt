@@ -2,3 +2,16 @@
     opacity: 0.8;
     filter: alpha(opacity=80);
 }
+
+#header{
+    background-image: url(../img/pracadarepublica.jpg);
+    height: 3.25em;
+}
+
+#header h1{
+    color: white;
+}
+
+#nav{
+    text-align: center;
+}
