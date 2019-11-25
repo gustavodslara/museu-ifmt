@@ -1,0 +1,4 @@
+#logo:hover{
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+}
