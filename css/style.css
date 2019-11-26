@@ -19,3 +19,9 @@
 #cardItens img{
     min-height: 12em;
 }
+
+.img-small{
+    max-height: 25em!important;
+    min-height: 25em!important;
+    min-width: 30em!important;
+}
