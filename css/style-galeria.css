@@ -38,16 +38,24 @@
 
 }
 
-.sobre-pages div:nth-child(1){
-    background-color: rgb(248, 240, 227);
+
+#pn1{
+    background-color: rgb(255, 251, 245)!important;
+}
+
+#pn2{
+    background-color: rgb(243, 243, 243)!important;
+}
+
+#pn3{
+    background-color: rgb(255, 251, 245)!important;
 }
 
 footer{
-    height: 50vh;
+    height: 15em;
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
-    background-color: rgba(250, 237, 220, 0.726);
 }
 
 .btn-primary:hover,
