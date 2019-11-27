@@ -175,3 +175,12 @@ section .section-title {
     height: 120px;
     border-radius: 50%;
 }
+
+footer{
+    height: 30vh;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    background-color: rgba(250, 237, 220, 0.726);
+    background-image: linear-gradient(rgba(240, 240, 240, 0.897), rgba(1, 44, 30, 0.151));
+}

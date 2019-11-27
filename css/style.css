@@ -36,7 +36,8 @@
 
 
 #team {
-    background: rgba(248, 246, 246, 0.795) !important;
+    background: rgba(248, 246, 246, 0) !important;
+    
 }
 
 .btn-primary:hover,
@@ -164,3 +165,22 @@ section .section-title {
     height: 120px;
     border-radius: 50%;
 }
+
+footer{
+    height: 30vh;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    background-color: rgba(250, 237, 220, 0.726);
+    background-image: linear-gradient(rgba(240, 240, 240, 0.897), rgba(1, 44, 30, 0.151));
+}
+
+.marg{
+    margin-top:50px ;
+}
+
+
+body{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.897), rgba(184, 207, 199, 0.384));
+}
+
