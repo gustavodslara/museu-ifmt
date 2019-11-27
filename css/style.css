@@ -20,8 +20,8 @@
     text-align: center;
 }
 
-#cardItens img{
-    min-height: 12em;
+.card-item img{
+    min-height: 16em!important;
 }
 
 .sidebar-div{
@@ -30,4 +30,13 @@
 
 .text-cont{
     max-width: 15em;
+}
+
+.navText{
+    color: rgba(0,0,0,.5);
+}
+
+.navText:hover{
+    color: rgba(0,0,0,.9);
+    text-decoration: none;
 }
