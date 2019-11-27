@@ -12,6 +12,10 @@
     color: white;
 }
 
+#imgIntro{
+    min-width: 13em;
+}
+
 #nav{
     text-align: center;
 }
@@ -20,8 +24,10 @@
     min-height: 12em;
 }
 
-.img-small{
-    max-height: 25em!important;
-    min-height: 25em!important;
-    min-width: 30em!important;
+.sidebar-div{
+    border-left: 4px solid #32A043;
+}
+
+.text-cont{
+    max-width: 15em;
 }
