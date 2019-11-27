@@ -31,3 +31,12 @@
 .text-cont{
     max-width: 15em;
 }
+
+.navText{
+    color: rgba(0, 0, 0, .5);
+}
+
+.navText:hover{
+    color: rgba(0, 0, 0, .8);
+    text-decoration: none;
+}
