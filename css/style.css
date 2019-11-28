@@ -20,8 +20,8 @@
     text-align: center;
 }
 
-#cardItens img{
-    min-height: 12em;
+.card-front img{
+    min-height: 15em!important;
 }
 
 .sidebar-div{

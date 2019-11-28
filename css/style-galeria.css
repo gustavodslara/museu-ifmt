@@ -39,15 +39,15 @@
 
 
 #pn1{
-    background-color: rgb(255, 251, 245)!important;
+    background-color: rgb(255, 253, 250)!important;
 }
 
 #pn2{
-    background-color: rgb(243, 243, 243)!important;
+    background-color: rgb(248, 248, 248)!important;
 }
 
 #pn3{
-    background-color: rgb(255, 251, 245)!important;
+    background-color: rgb(255, 253, 250)!important;
 }
 
 footer{
@@ -164,7 +164,7 @@ section .section-title {
 
 .frontside .card,
 .backside .card {
-    min-height: 312px;
+    min-height: 200px;
 }
 
 .backside .card a {
