@@ -40,3 +40,13 @@
     color: rgba(0, 0, 0, .8);
     text-decoration: none;
 }
+
+footer{
+    margin-top: 80px;
+    height: 30vh;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    background-image: linear-gradient(rgb(153, 153, 153), rgb(207, 207, 179));
+    bottom: 0;
+}
