@@ -46,11 +46,8 @@
 
 footer{
     height: 15em;
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
     background-color: white;
-    background-image: linear-gradient(white, rgb(214, 214, 214));
+    background-image: linear-gradient(white, rgb(209, 209, 209));
 }
 
 .btn-primary:hover,
