@@ -1,52 +1,66 @@
-#logo:hover{
+html {
+    font-size: 1rem;
+}
+
+@media only screen and (min-width : 480px) {
+    .sobre-pages>#p1, #p2, #p3>p {
+        font-size: 14px!important;
+        line-height: 14px!important;
+    }
+    .sobre-pages>#p1, #p2, #p3>h3 {
+        font-size: 1.5rem!important;
+    }
+}
+
+#logo:hover {
     opacity: 0.8;
     filter: alpha(opacity=80);
 }
 
-#header{
+#header {
     background-image: url(../img/pracadarepublica.jpg);
     height: 3.25em;
 }
 
-#header h1{
+#header h1 {
     color: white;
 }
 
-#imgIntro{
+#imgIntro {
     min-width: 13em;
 }
 
-#nav{
+#nav {
     text-align: center;
 }
 
-.card-front img{
+.card-front img {
     min-height: 15em!important;
 }
 
-.sidebar-div{
+.sidebar-div {
     border-left: 4px solid #32A043;
 }
 
-.text-cont{
+.text-cont {
     max-width: 15em;
 }
 
-.navText{
+.navText {
     color: rgba(0, 0, 0, .5);
 }
 
-.navText:hover{
+.navText:hover {
     color: rgba(0, 0, 0, .8);
     text-decoration: none;
 }
 
-footer{
+footer {
     margin-top: 80px;
     height: 30vh;
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
-    background-image: linear-gradient(rgb(153, 153, 153), rgb(207, 207, 179));
+    background-image: linear-gradient(white, rgb(153, 153, 153));
     bottom: 0;
 }
