@@ -8,9 +8,6 @@ O projeto é o trabalho final da disciplina de Web I, do curso superior de Siste
 
 Foi feito em conjunto com @[MateusJellal](https://github.com/MateusJellal), colega de turma
 
-## Página
-[gustavo-lara.codes/museu-ifmt](https://gustavo-lara.codes/museu-ifmt/)
-
 ### Desktop
 ![desktop](./img/paginalookup.png "Página em navegadores no desktop")
 
